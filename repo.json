@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "A high-performance laptop for professionals.",
+    "price": 1200.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "Latest model with a powerful camera and processor.",
+    "price": 899.5,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "Wireless headphones with noise cancellation.",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "description": "Track your fitness and stay connected on the go.",
+    "price": 299.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console",
+    "description": "Experience next-gen gaming with this powerful console.",
+    "price": 499.99,
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 6,
+    "name": "Tablet",
+    "description": "Lightweight tablet perfect for reading and entertainment.",
+    "price": 349.99,
+    "image": "https://via.placeholder.com/150"
+  }
+]
