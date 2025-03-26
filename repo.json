@@ -3,14 +3,12 @@
     "id": 1,
     "name": "Laptop",
     "description": "A high-performance laptop for professionals.",
-    "price": 1200.99,
     "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 2,
     "name": "Smartphone",
     "description": "Latest model with a powerful camera and processor.",
-    "price": 899.5,
     "image": "https://cdn.thewirecutter.com/wp-content/media/2024/09/iphone-2048px-6979.jpg?auto=webp&quality=75&width=1024"
   },
   {
@@ -24,21 +22,18 @@
     "id": 4,
     "name": "Smartwatch",
     "description": "Track your fitness and stay connected on the go.",
-    "price": 299.99,
     "image": "https://plus.unsplash.com/premium_photo-1681147547346-2d73c90988d8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 5,
     "name": "Gaming Console",
     "description": "Experience next-gen gaming with this powerful console.",
-    "price": 499.99,
     "image": "https://cdn.thewirecutter.com/wp-content/media/2023/05/gamingconsoles-2048px-00730-3x2-1.jpg"
   },
   {
     "id": 6,
     "name": "Tablet",
     "description": "Lightweight tablet perfect for reading and entertainment.",
-    "price": 349.99,
     "image": "https://cdn.thewirecutter.com/wp-content/media/2024/05/protablets-2048px-232431.jpg?auto=webp&quality=75&width=1024"
   }
 ]
